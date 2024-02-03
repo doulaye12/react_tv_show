@@ -1,0 +1,21 @@
+.title{
+    font-size: 40px;
+    font-weight: bold;
+}
+.rating{
+    font-size: 20px;
+    margin-left: 8px;
+}
+.overview{
+    font-size: 1.6em;
+    font-weight: lighter;
+    max-height: 300px;
+    overflow: hidden;
+}
+.overview:hover{
+    overflow: scroll;
+}
+.rating_container{
+    margin: 2% 0;
+    display: flex;
+}
